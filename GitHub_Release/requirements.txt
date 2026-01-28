@@ -1,0 +1,10 @@
+streamlit
+numpy
+opencv-python
+librosa
+matplotlib
+scikit-learn
+joblib
+pandas
+hachoir
+reportlab
